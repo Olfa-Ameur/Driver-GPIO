@@ -70,4 +70,4 @@ void Delay(volatile unsigned  int  nCount)
   for(; nCount != 0; nCount--);
 }
 
-/******************* (C) COPYRIGHT 2019 CSF *****END OF FILE*******************/
+/******************END OF FILE*******************/
